@@ -6,6 +6,7 @@ public class Main {
 		//Reader r = new Reader();
 		//r.read();
 		Menu menu = new Menu();
+		menu.MainMenu();
 	}
 
 }
